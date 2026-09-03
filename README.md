@@ -33,7 +33,7 @@ This special item is required to activate the Ancient City Portal.
 
 ## Requirements
 
-* Minecraft 1.21.11+
+* Minecraft 1.21.1+
 * Paper / Purpur Server
 * Java 21+
 
